@@ -1,4 +1,4 @@
-# BITCS_NLP-Project1
+# BITCS_NLP-Project1_Chinese Lexical Analyer 汉语词法分析器
 汉语词法分析器：实现分词、词性标注以及NER
 # 项目概况
 ![](doc/2.png)
