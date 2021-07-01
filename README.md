@@ -347,11 +347,11 @@ PosTagDemo()
 
 
 
-![png](output_21_2.png)
+![png](doc/output_21_2.png)
 
 
 
-![png](output_21_3.png)
+![png](doc/output_21_3.png)
 
 
 ## 三、命名实体识别
